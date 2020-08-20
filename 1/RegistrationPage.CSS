@@ -1,0 +1,54 @@
+body {
+    background-color:lightblue;
+}
+
+label {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+input.firstname {
+    background-color: red;
+    color: white;
+}
+
+input.lastname {
+    background-color: green;
+    color: white;
+}
+.textarea {
+    width: 250px;
+    height:200px;
+}
+
+legend {
+    color: darkgreen;
+    font-size: 50px;
+}
+
+fieldset {
+    border-color: darkred;    
+}
+
+.submitButton {
+    width:100px;
+    height:40px;
+    background-color: darkgreen;
+    color: darkturquoise;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+.a {
+      background-color: green;
+  }
+
+.b {
+      background-color: red;
+  }
