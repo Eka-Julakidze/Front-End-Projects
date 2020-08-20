@@ -1,0 +1,27 @@
+/*@media only screen and (max-width: 480px) {
+    html, body {overflow-x: hidden;}
+  
+    .outter-box {
+        background-color: lightgreen;
+        width: 300px;
+    }
+    
+    .outter-box .header-box h3 {
+          width: 100%;
+          font-size: 80%;
+    }
+    .search-bar {
+          width: 90%;
+          margin-top: 15px;
+          margin-left: 15px; 
+    } 
+    .search-box {width: 100%;}
+    ::placeholder{  
+        color: #9195b1;
+        font-size: 90%;
+    }
+  }
+  
+  @media only screen and (max-width: 768px) {
+  
+  }*/
